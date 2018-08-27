@@ -1,3 +1,15 @@
+body{
+    background-color: #F5F5F5;
+}
+
+footer{
+    background-color: #212F3D;
+}
+
+.footer-text-white{
+    color:F5F5F5;
+}
+
 .header{
     border-bottom: solid 1px #000000;
 }
@@ -8,10 +20,7 @@
     height: auto;
 }
 
-body{
-    background-color: #F5F5F5;
-}
-
 .bottom-space-row{
     margin-bottom: 20px;
 }
+
