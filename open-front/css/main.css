@@ -1,0 +1,17 @@
+.header{
+    border-bottom: solid 1px #000000;
+}
+
+.img-responsive{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+body{
+    background-color: #F5F5F5;
+}
+
+.bottom-space-row{
+    margin-bottom: 20px;
+}
